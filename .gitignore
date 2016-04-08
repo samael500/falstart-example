@@ -60,3 +60,10 @@ target/
 
 #Ipython Notebook
 .ipynb_checkpoints
+
+# custome ignore
+settings_local.py
+.vagrant
+var/
+static/
+
